@@ -1,4 +1,4 @@
-# LLM Fine-tuning Project
+# LLM Fine-tuning Project by sogm1
 
 A repository for experimenting with and fine-tuning smaller language models (sLLM). 
 
