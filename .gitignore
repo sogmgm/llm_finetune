@@ -1,0 +1,12 @@
+# 환경 변수 & 시크릿
+.env
+.env.local
+secrets.json
+
+# 파이썬 관련
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
